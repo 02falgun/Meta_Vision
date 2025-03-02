@@ -42,7 +42,7 @@ Open `index.html` in your browser or use Live Server:
 ```bash
 npx live-server
 ```
-## Deployes
+## Deployed on Netlify
 
 [meetavision.netlify.app](https://meetavision.netlify.app/)
 

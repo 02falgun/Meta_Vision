@@ -1,17 +1,18 @@
-📌 MetaVision Frontend
-🚀 A modern, animated, and responsive frontend for MetaVision, built using HTML, CSS, and JavaScript.
+# MetaVision Frontend 🚀
 
-📋 Features
-✅ Fully responsive design
-✅ Smooth animations & transitions
-✅ Modern UI with interactive elements
-✅ Contact form with Google Maps integration
-✅ Optimized for performance
+A modern, animated, and responsive frontend for MetaVision, built using HTML, CSS, and JavaScript.
 
-📂 Project Structure
-bash
-Copy
-Edit
+## Features ✅
+
+- Fully responsive design
+- Smooth animations & transitions
+- Modern UI with interactive elements
+- Contact form with Google Maps integration
+- Optimized for performance
+
+## Project Structure 📂
+
+```
 /frontend
 │── index.html        # Main HTML file
 │── css/
@@ -23,17 +24,33 @@ Edit
 │── assets/
 │   ├── images/       # Logos, icons, and other images
 │   ├── fonts/        # Custom fonts
-🚀 Getting Started
-🔹 Clone the Repository
-bash
-Copy
-Edit
+```
+
+## Getting Started 🚀
+
+### Clone the Repository
+
+```bash
 git clone https://github.com/02falgun/Meta_Vision.git
 cd Meta_Vision/frontend
-🔹 Run Locally
-Open index.html in your browser or use Live Server:
+```
 
-bash
-Copy
-Edit
+### Run Locally
+
+Open `index.html` in your browser or use Live Server:
+
+```bash
 npx live-server
+```
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+## Contact
+
+For any inquiries or support, please contact us through the form on our website.
